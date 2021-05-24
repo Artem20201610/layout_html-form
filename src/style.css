@@ -2,7 +2,11 @@
   margin-top: 20px;
 }
 
-.border {
+.fieldset {
+  padding-top: 5.5px;
+}
+
+.fieldset > .form-field:not(:first-of-type) {
   margin-top: 10px;
 }
 
