@@ -1,1 +1,11 @@
-/* styles go here */
+.fieldset-border {
+  margin-top: 20px;
+}
+
+.border {
+  margin-top: 10px;
+}
+
+.submit {
+  margin: 20px 0;
+}
